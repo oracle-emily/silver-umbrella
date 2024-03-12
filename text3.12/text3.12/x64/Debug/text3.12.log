@@ -1,0 +1,4 @@
+﻿  FileName.c
+E:\silver-umbrella\text3.12\text3.12\FileName.c(94,17): warning C4013: “exit”未定义；假设外部返回 int
+E:\silver-umbrella\text3.12\text3.12\FileName.c(81,9): warning C4101: “tmp”: 未引用的局部变量
+  text3.12.vcxproj -> E:\silver-umbrella\text3.12\x64\Debug\text3.12.exe
