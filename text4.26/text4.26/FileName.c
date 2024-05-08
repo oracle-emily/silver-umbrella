@@ -22,3 +22,7 @@ int main()
 	printf("%zd\n", sizeof(struct s2));
 	return 0;
 }
+//以空间换时间
+
+
+
