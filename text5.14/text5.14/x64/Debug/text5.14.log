@@ -1,0 +1,6 @@
+﻿  FileName.c
+E:\silver-umbrella\text5.14\text5.14\FileName.c(7,27): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  E:\silver-umbrella\text5.14\text5.14\FileName.c(7,27):
+  请考虑在格式字符串中使用“%zd”
+  
+  text5.14.vcxproj -> E:\silver-umbrella\text5.14\x64\Debug\text5.14.exe
