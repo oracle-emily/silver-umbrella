@@ -1,0 +1,3 @@
+﻿  FileName.c
+E:\silver-umbrella\text5.23\text5.23\FileName.c(81,1): warning C4172: 返回局部变量或临时变量的地址: p
+  text5.23.vcxproj -> E:\silver-umbrella\text5.23\x64\Debug\text5.23.exe
