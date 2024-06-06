@@ -43,18 +43,61 @@ void SeqListPushBack(SL* psl, SLDataType x)//尾插
 
 void SLPrint(SL* psl)
 {
-
+	for (int i = 0; i < psl->size; i++)
+	{
+		printf("%d", psl->arr[i]);
+	}
+	printf("\n");
 }
 
 
 
 
-void SeqListPopBack(SL* psl)//头插
+void SLPushFront(SL* ps, SLDataType x)//头插
 {
+	assert(ps);
+	//空间检查，不够则扩容
+	if (ps->size == ps->capacity)
+	{
+		CheckCapacity(ps);
+	}
+	//先让顺序表中已有的数据整体往后挪动一位
+	for (int i = ps->size; i > 0; i--)
+	{
+		ps->arr[i] = ps->arr[i - 1];//arr[1] = arr[0]
+	}
+	ps->arr[0] = x;
+	ps->size++;
+}
+void SLPopBack(SL* ps)//尾删
+{
+	assert(ps);
+	assert(ps->size);
+	//顺序表不为空
+	//ps->arr[ps->size - 1] = -1;
+	--ps->size;
+}
+void SLPopFront(SL* ps)//头删
+{
+	assert(ps);
+	assert(ps->size);
 
+	//数据整体往前挪动一位
+	for (int i = 0; i < ps->size - 1; i++)
+	{
+		ps->arr[i] = ps->arr[i + 1]; //arr[size-2] = arr[size-1]
+	}
+	ps->size--;
 }
 
 
-
-void SeqListDestory(SL* ps);
+void SeqListDestory(SL* ps)
+{
+	if (ps->arr)//等价于if(ps->arr !=0)
+	{
+		free(ps->arr);
+	}
+	ps->arr = NULL;
+	ps->size = ps->capacity = 0;
+}
 

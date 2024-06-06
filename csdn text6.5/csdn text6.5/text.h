@@ -32,8 +32,10 @@ void CheckCapacity(SL* psl);//检查空间，如果满了，进行增容
 
 void SeqListPushBack(SL* psl, SLDataType x);//尾插
 
-void SeqListPopBack(SL* psl);//头插
+void SLPushFront(SL* ps, SLDataType x);//头插
 
-void SLPrint(SL* psl);
+
+void SLPopBack(SL* ps);//尾删
+void SLPopFront(SL* ps);//头删
 
 
