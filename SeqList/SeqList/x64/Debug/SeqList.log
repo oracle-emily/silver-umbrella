@@ -1,0 +1,3 @@
+﻿  SeqList.c
+E:\silver-umbrella\SeqList\SeqList\SeqList.c(82,11): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  SeqList.vcxproj -> E:\silver-umbrella\SeqList\x64\Debug\SeqList.exe

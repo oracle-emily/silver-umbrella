@@ -1,4 +1,4 @@
-# include"SeqList.h"
+#include"SeqList.h"
 
 
 void SLInit(SL* psl)//初始化
@@ -55,14 +55,14 @@ void SLPushFront(SL* psl, SLdataType x)
 	psl->size++;
 }
 
-void SLPrint(SL s)
-{
-	for (int i = 0; i < s.size; i++)
-	{
-		printf("%d ", s.arr[i]);
-	}
-	printf("\n");
-}
+//void SLPrint(SL s)
+//{
+//	for (int i = 0; i < s.size; i++)
+//	{
+//		printf("%d ", s.arr[i]);
+//	}
+//	printf("\n");
+//}
 
 void SLPopBack(SL* psl)//尾删
 {
@@ -86,17 +86,18 @@ void SLPopFront(SL* psl)//头删
 }
 
 
-int SLFind(SL* psl, SLdataType x)//查找
-{ 
-	assert(psl);
-	for (int i = 0; i < psl->size; i++)
-	{
-		if (psl->arr[i] == x) {
-			return i;
-		}
-	}
-	return -1;
-}
+//int SLFind(SL* psl, SLdataType x)//查找
+//{ 
+//	assert(psl);
+//	for (int i = 0; i < psl->size; i++)
+//	{
+//		if (psl->arr[i] == x) //复合类型的数组了，，直接比较使用不可
+//		{
+//			return i;
+//		}
+//	}
+//	return -1;
+//}
 
 
 
@@ -104,7 +105,7 @@ int SLFind(SL* psl, SLdataType x)//查找
 
 void SLdestory(SL* psl)//销毁顺序表
 {
-	arrest(psl);
+	assert(psl);
 	free(psl->arr);
 	psl->arr == NULL;
 	psl->size = psl->capacity = 0;

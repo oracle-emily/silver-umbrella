@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="content.h" />
     <ClInclude Include="SeqList.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.c" />
+    <ClCompile Include="Contact.c" />
+    <ClCompile Include="Context.c" />
     <ClCompile Include="SeqList.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,3 +1,35 @@
-﻿SeqList.obj : error LNK2019: 无法解析的外部符号 arrest，函数 SLdestory 中引用了该符号
-MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
-E:\silver-umbrella\csdn text6.7\x64\Debug\csdn text6.7.exe : fatal error LNK1120: 2 个无法解析的外部命令
+﻿  Contact.c
+E:\silver-umbrella\csdn text6.7\csdn text6.7\content.h(28,24): error C2371: “Contact”: 重定义；不同的基类型
+  (编译源文件“Contact.c”)
+  E:\silver-umbrella\csdn text6.7\csdn text6.7\content.h(14,24):
+  参见“Contact”的声明
+  
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Contact.c(16,10): error C2079: “con”使用未定义的 struct“SeqLIst”
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Contact.c(17,14): warning C4133: “函数”: 从“int *”到“Contact *”的类型不兼容
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Contact.c(29,15): warning C4133: “函数”: 从“int *”到“Contact *”的类型不兼容
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Contact.c(56,10): error C2079: “pon”使用未定义的 struct“SeqLIst”
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Contact.c(57,14): warning C4133: “函数”: 从“int *”到“Contact *”的类型不兼容
+  Context.c
+E:\silver-umbrella\csdn text6.7\csdn text6.7\content.h(28,24): error C2371: “Contact”: 重定义；不同的基类型
+  (编译源文件“Context.c”)
+  E:\silver-umbrella\csdn text6.7\csdn text6.7\content.h(14,24):
+  参见“Contact”的声明
+  
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(7,9): warning C4133: “函数”: 从“Contact *”到“SL *”的类型不兼容
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(13,12): warning C4133: “函数”: 从“Contact *”到“SL *”的类型不兼容
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(21,2): warning C4013: “sacnf”未定义；假设外部返回 int
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(25,2): warning C4013: “sancf”未定义；假设外部返回 int
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(32,13): warning C4133: “函数”: 从“Contact *”到“SL *”的类型不兼容
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(27,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(29,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(49,13): warning C4013: “FindByName”未定义；假设外部返回 int
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(56,2): warning C4013: “SLErase”未定义；假设外部返回 int
+E:\silver-umbrella\csdn text6.7\csdn text6.7\Context.c(47,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SeqList.c
+E:\silver-umbrella\csdn text6.7\csdn text6.7\content.h(28,24): error C2371: “Contact”: 重定义；不同的基类型
+  (编译源文件“SeqList.c”)
+  E:\silver-umbrella\csdn text6.7\csdn text6.7\content.h(14,24):
+  参见“Contact”的声明
+  
+E:\silver-umbrella\csdn text6.7\csdn text6.7\SeqList.c(110,11): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  正在生成代码...

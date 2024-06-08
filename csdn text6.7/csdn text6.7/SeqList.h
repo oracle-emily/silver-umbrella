@@ -2,9 +2,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<assert.h>
+#include"content.h"
 
 
-typedef  int SLdataType;
+typedef Info SLdataType;
+//typedef  int SLdataType;
 typedef  struct SeqList
 {
 	SLdataType* arr;//指向数组的指针
@@ -30,3 +32,8 @@ void SLPopBack(SL* psl);//尾删
 void SLPopFront(SL* psl);//头删
 
 int SLFind(SL* psl, SLdataType x);
+
+void ContactShow(Contact* con);
+
+
+void ContactFind(Contact* con);
