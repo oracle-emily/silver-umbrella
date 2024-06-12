@@ -23,4 +23,16 @@ void SLTPopBack(SLTNode** pphead);
 void SLTPopFront(SLTNode** pphead);
 
 
-SLTNode* SLTBuyNode(SLDataType x);//kuorong
+SLTNode* SLTBuyNode(SLDataType x);//扩容
+SLTNode* SLTFind(SLTNode* phead, SLDataType x);
+
+//在指定位置之前插入数据
+void SLTInsert(SLTNode** pphead, SLTNode* pos, SLDataType x);
+
+void SLTInsert(SLTNode** pphead, SLTNode* pos, SLDataType x);
+void SLTEraseAfter(SLTNode* pos);
+
+//销毁链表
+void SListDesTroy(SLTNode** pphead);
+
+void SLTErase(SLTNode** pphead, SLTNode* pos);
