@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\silver-umbrella\\text6.13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB440D78-2122-4827-878D-78AA8E9BE4EC}|text6.13\\text6.13.vcxproj|E:\\silver-umbrella\\text6.13\\text6.13\\SList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB440D78-2122-4827-878D-78AA8E9BE4EC}|text6.13\\text6.13.vcxproj|solutionrelative:text6.13\\SList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB440D78-2122-4827-878D-78AA8E9BE4EC}|text6.13\\text6.13.vcxproj|E:\\silver-umbrella\\text6.13\\text6.13\\SList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB440D78-2122-4827-878D-78AA8E9BE4EC}|text6.13\\text6.13.vcxproj|solutionrelative:text6.13\\SList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB440D78-2122-4827-878D-78AA8E9BE4EC}|text6.13\\text6.13.vcxproj|E:\\silver-umbrella\\text6.13\\text6.13\\Text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB440D78-2122-4827-878D-78AA8E9BE4EC}|text6.13\\text6.13.vcxproj|solutionrelative:text6.13\\Text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Text.c",
+              "DocumentMoniker": "E:\\silver-umbrella\\text6.13\\text6.13\\Text.c",
+              "RelativeDocumentMoniker": "text6.13\\Text.c",
+              "ToolTip": "E:\\silver-umbrella\\text6.13\\text6.13\\Text.c",
+              "RelativeToolTip": "text6.13\\Text.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-13T03:45:55.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SList.c",
+              "DocumentMoniker": "E:\\silver-umbrella\\text6.13\\text6.13\\SList.c",
+              "RelativeDocumentMoniker": "text6.13\\SList.c",
+              "ToolTip": "E:\\silver-umbrella\\text6.13\\text6.13\\SList.c",
+              "RelativeToolTip": "text6.13\\SList.c",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAowHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-13T03:45:47.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SList.h",
+              "DocumentMoniker": "E:\\silver-umbrella\\text6.13\\text6.13\\SList.h",
+              "RelativeDocumentMoniker": "text6.13\\SList.h",
+              "ToolTip": "E:\\silver-umbrella\\text6.13\\text6.13\\SList.h",
+              "RelativeToolTip": "text6.13\\SList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-13T03:45:36.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

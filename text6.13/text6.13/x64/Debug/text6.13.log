@@ -1,0 +1,8 @@
+﻿  SList.c
+  Text.c
+  正在生成代码...
+E:\silver-umbrella\text6.13\text6.13\SList.c(9,29): error C2065: “data”: 未声明的标识符
+E:\silver-umbrella\text6.13\text6.13\SList.c(9,29): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+E:\silver-umbrella\text6.13\text6.13\SList.c(9,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SLTNode *”
+E:\silver-umbrella\text6.13\text6.13\SList.c(9,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "SLTNode *" 的参数 1 冲突
+E:\silver-umbrella\text6.13\text6.13\SList.c(9,30): error C2059: 语法错误:“)”
