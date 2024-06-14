@@ -1,8 +1,27 @@
 ﻿  SList.c
   Text.c
   正在生成代码...
-E:\silver-umbrella\text6.13\text6.13\SList.c(9,29): error C2065: “data”: 未声明的标识符
-E:\silver-umbrella\text6.13\text6.13\SList.c(9,29): error C2143: 语法错误: 缺少“)”(在“;”的前面)
-E:\silver-umbrella\text6.13\text6.13\SList.c(9,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SLTNode *”
-E:\silver-umbrella\text6.13\text6.13\SList.c(9,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "SLTNode *" 的参数 1 冲突
-E:\silver-umbrella\text6.13\text6.13\SList.c(9,30): error C2059: 语法错误:“)”
+E:\silver-umbrella\text6.13\text6.13\SList.c(10,8): warning C4133: “=”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(41,10): warning C4133: “=”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(43,15): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(52,16): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(74,10): warning C4133: “=”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(87,11): warning C4133: “初始化”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(102,8): warning C4133: “=”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(109,43): warning C4028: 形参 2 与声明不同
+E:\silver-umbrella\text6.13\text6.13\SList.c(110,1): warning C4029: 声明的形参表不同于定义
+E:\silver-umbrella\text6.13\text6.13\SList.c(117,23): warning C4020: “SLTPopFront”: 实参太多
+E:\silver-umbrella\text6.13\text6.13\SList.c(122,21): warning C4133: “!=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(124,9): warning C4133: “=”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(126,17): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(127,14): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(137,12): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(152,21): warning C4133: “!=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(154,8): warning C4133: “=”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(166,11): warning C4133: “初始化”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(179,12): warning C4133: “初始化”: 从“SLIstNode *”到“SLTNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\Text.c(20,14): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\Text.c(21,14): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\Text.c(22,14): warning C4133: “=”: 从“SLTNode *”到“SLIstNode *”的类型不兼容
+E:\silver-umbrella\text6.13\text6.13\SList.c(25,1): warning C4715: “SLTBuyNode”: 不是所有的控件路径都返回值
+  text6.13.vcxproj -> E:\silver-umbrella\text6.13\x64\Debug\text6.13.exe

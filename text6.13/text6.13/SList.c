@@ -106,16 +106,79 @@ SLTNode* SLTFind(SLTNode* phead, SLTDatatype x)
 }
 
 //在指定位置之前插入数据
-void SLTInsert(SLTNode** pphead, SLTDatatype x);
+void SLTInsert(SLTNode** pphead, SLTNode* pos, SLTDatatype x)
+{
+	assert(pphead && *pphead);
+	assert(pos);
+	SLTNode* newnode = SLTBuyNode(x);
+	//pos==*pphead说明是头插
+	if (pos == *pphead)
+	{
+		SLTPopFront(pphead, x);
+	}
+	else
+	{
+		SLTNode* prev = *pphead;
+		while (prev->next != pos)
+		{
+			prev = prev->next;
+		}
+		newnode->next = pos;
+		prev->next = newnode;
+	}
+}
 
 //在指定位置之后插入数据
-void SLTInsertAfter(SLTNode* pos, SLTDatatype x);
+void SLTInsertAfter(SLTNode* pos, SLTDatatype x)
+{
+	assert(pos);
+	SLTNode* newnode = SLTBuyNode(x);
+	newnode->next = pos->next;
+	pos->next = newnode;
+}
 
 //删除pos节点
-void SLTErase(SLTNode** pphead, SLTNode* pos);
+void SLTErase(SLTNode** pphead, SLTNode* pos)
+{
+	assert(pphead && *pphead);
+	assert(pos);
+	if (pos == *pphead)
+	{
+		SLTPopFront(pphead);
+	}
+	else
+	{
+		SLTNode* prev = *pphead;
+		while (prev->next != pos)
+		{
+			pos = pos->next;
+		}
+		prev->next = pos->next;
+		free(pos);
+		pos = NULL;
+	}
+}
 
 //删除pos之后的节点
-void SLTEraseAfter(SLTNode* pos);
+void SLTEraseAfter(SLTNode* pos)
+{
+	assert(pos && pos->next);
+	SLTNode* del = pos->next;
+	pos->next = del->next;
+	free(del);
+	del = NULL;
+}
 
 //销毁链表
-void SListDesTroy(SLTNode** pphead);
+void SListDesTroy(SLTNode** pphead)
+{
+	assert(pphead && *pphead);
+	SLTNode* pcur = *pphead;
+	while (pcur)
+	{
+		SLTNode* next = pcur->next;
+		free(pcur);
+		pcur = next;
+	}
+	*pphead = NULL;
+}
