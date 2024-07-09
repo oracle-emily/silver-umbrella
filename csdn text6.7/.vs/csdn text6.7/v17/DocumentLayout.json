@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "E:\\silver-umbrella\\csdn text6.7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\Context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\Context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\Contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\Contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\content.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\content.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\SeqList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\SeqList.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\Context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\Context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\SeqList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\Contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F8BDD8-182F-45F8-8F47-560B31190E84}|csdn text6.7\\csdn text6.7.vcxproj|solutionrelative:csdn text6.7\\Contact.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Contact.c",
               "DocumentMoniker": "E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\Contact.c",
               "RelativeDocumentMoniker": "csdn text6.7\\Contact.c",
@@ -43,8 +39,7 @@
               "ViewState": "AQIAADMAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-07T14:53:09.869Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -52,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Context.c",
               "DocumentMoniker": "E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\Context.c",
               "RelativeDocumentMoniker": "csdn text6.7\\Context.c",
@@ -65,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "content.h",
               "DocumentMoniker": "E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\content.h",
               "RelativeDocumentMoniker": "csdn text6.7\\content.h",
@@ -78,26 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SeqList.c",
-              "DocumentMoniker": "E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\SeqList.c",
-              "RelativeDocumentMoniker": "csdn text6.7\\SeqList.c",
-              "ToolTip": "E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\SeqList.c",
-              "RelativeToolTip": "csdn text6.7\\SeqList.c",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-07T07:51:43.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SeqList.h",
               "DocumentMoniker": "E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\SeqList.h",
               "RelativeDocumentMoniker": "csdn text6.7\\SeqList.h",
               "ToolTip": "E:\\silver-umbrella\\csdn text6.7\\csdn text6.7\\SeqList.h",
               "RelativeToolTip": "csdn text6.7\\SeqList.h",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-07T07:51:21.983Z",
               "EditorCaption": ""

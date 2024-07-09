@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "E:\\silver-umbrella\\text6.7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|E:\\silver-umbrella\\text6.7\\text6.7\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|solutionrelative:text6.7\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\silver-umbrella\\text6.7\\text6.7\\SQL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:text6.7\\SQL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|E:\\silver-umbrella\\text6.7\\text6.7\\context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|solutionrelative:text6.7\\context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\silver-umbrella\\text6.7\\text6.7\\context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:text6.7\\context.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|E:\\silver-umbrella\\text6.7\\text6.7\\SQL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|solutionrelative:text6.7\\SQL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|E:\\silver-umbrella\\text6.7\\text6.7\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{68DC665D-8356-4611-B7E5-9C9144C1D3E6}|text6.7\\text6.7.vcxproj|solutionrelative:text6.7\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\silver-umbrella\\text6.7\\text6.7\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:text6.7\\text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SQL.h",
               "DocumentMoniker": "E:\\silver-umbrella\\text6.7\\text6.7\\SQL.h",
               "RelativeDocumentMoniker": "text6.7\\SQL.h",
@@ -51,28 +43,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "text.h",
               "DocumentMoniker": "E:\\silver-umbrella\\text6.7\\text6.7\\text.h",
               "RelativeDocumentMoniker": "text6.7\\text.h",
-              "ToolTip": "E:\\silver-umbrella\\text6.7\\text6.7\\text.h*",
-              "RelativeToolTip": "text6.7\\text.h*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAXAAAA",
+              "ToolTip": "E:\\silver-umbrella\\text6.7\\text6.7\\text.h",
+              "RelativeToolTip": "text6.7\\text.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-07T13:37:42.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FileName.c",
-              "DocumentMoniker": "E:\\silver-umbrella\\text6.7\\text6.7\\FileName.c",
-              "RelativeDocumentMoniker": "text6.7\\FileName.c",
-              "ToolTip": "E:\\silver-umbrella\\text6.7\\text6.7\\FileName.c*",
-              "RelativeToolTip": "text6.7\\FileName.c*",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAACwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-07T13:37:11.314Z",
               "EditorCaption": ""
             },
             {

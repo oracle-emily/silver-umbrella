@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -39,6 +39,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SL.c",
@@ -46,7 +50,7 @@
               "RelativeDocumentMoniker": "csdn text6.5\\SL.c",
               "ToolTip": "E:\\silver-umbrella\\csdn text6.5\\csdn text6.5\\SL.c",
               "RelativeToolTip": "csdn text6.5\\SL.c",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAmwGYAAAAAAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-05T10:37:34.267Z",
               "EditorCaption": ""
@@ -59,7 +63,7 @@
               "RelativeDocumentMoniker": "csdn text6.5\\text.h",
               "ToolTip": "E:\\silver-umbrella\\csdn text6.5\\csdn text6.5\\text.h",
               "RelativeToolTip": "csdn text6.5\\text.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAZAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAowBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-05T10:37:19.52Z",
               "EditorCaption": ""
