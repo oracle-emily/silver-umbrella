@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+E:\silver-umbrella\text8.25\text8.25\FileName.cpp(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(void)”
+E:\silver-umbrella\text8.25\text8.25\FileName.cpp(9,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int (__cdecl *)(void)" 的参数 1 冲突
+  text8.25.vcxproj -> E:\silver-umbrella\text8.25\x64\Debug\text8.25.exe
