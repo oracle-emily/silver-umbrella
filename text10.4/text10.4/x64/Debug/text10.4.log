@@ -1,0 +1,10 @@
+﻿  FileName.cpp
+C:\Users\兴晨\source\repos\text10.4\text10.4\FileName.h(20,6): error C2086: “int Stack::_year”: 重定义
+  (编译源文件“FileName.cpp”)
+  
+C:\Users\兴晨\source\repos\text10.4\text10.4\FileName.h(9,3): error C2065: “_mouth”: 未声明的标识符
+  (编译源文件“FileName.cpp”)
+  
+C:\Users\兴晨\source\repos\text10.4\text10.4\FileName.h(10,3): error C2065: “_day”: 未声明的标识符
+  (编译源文件“FileName.cpp”)
+  
