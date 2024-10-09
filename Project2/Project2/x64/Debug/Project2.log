@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+E:\silver-umbrella\Project2\Project2\FileName.cpp(24,7): error C2668: “Date::Date”: 对重载函数的调用不明确
+      E:\silver-umbrella\Project2\Project2\FileName.cpp(10,2):
+      可能是“Date::Date(int,int,int)”
+      E:\silver-umbrella\Project2\Project2\FileName.cpp(4,2):
+      或    “Date::Date(void)”
+      E:\silver-umbrella\Project2\Project2\FileName.cpp(24,7):
+      尝试匹配参数列表“()”时
+  
